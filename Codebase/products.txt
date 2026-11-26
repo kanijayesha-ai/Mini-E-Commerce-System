@@ -1,0 +1,4 @@
+P101,Laptop,50000,5
+P102,Pen,1,10
+P103,Mouse,500,8
+P104,Keyboard,800,6
